@@ -1,0 +1,13 @@
+Ellen Guerrero
+Matplotlib Homework
+
+You must include a written description of three observable trends based on the data.
+
+1. Urban cities have a higher population of drivers, conversely, rural cities have less drivers. 
+As a result, the average fare for rides in rural areas is higher.  
+
+2. Rural cities have less total rides with the highest fares in the data set.  
+
+3. Suburban cities fall between rural and urban when it comes to total drivers, fare, and rides, however, both 
+rural and suburban cities combined account for less than 1/4 of the total driver count. Urban cities have higher
+population/demand so the fares can remain lower, but still make up the majority. 
